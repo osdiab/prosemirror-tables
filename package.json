@@ -1,5 +1,5 @@
 {
-  "name": "prosemirror-tables",
+  "name": "@osdiab/prosemirror-tables",
   "version": "1.3.2",
   "description": "ProseMirror's rowspan/colspan tables component",
   "type": "module",
